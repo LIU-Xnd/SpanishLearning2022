@@ -3,26 +3,7 @@
 
 <h1 align="center">Notas</h1>
 
-# ÍNDICE
-
-- [Unidad 1](#unidad-1)
-  * [VOCABULARIO](#vocabulario)
-  * [GRAMÁTICA](#gramática)
-- [Unidad 2](#unidad-2)
-  * [GRAMÁTICA](#gramática-1)
-  * [VOCAB](#vocab)
-- [Unidad 3](#unidad-3)
-  * [VOCABULARIO](#vocabulario-1)
-  * [非重读物主代词](#非重读物主代词)
-  * [Presento del indicativo del verbo irregular IR](#presento-del-indicativo-del-verbo-irregular-ir)
-  * [Uso de la preposición A](#uso-de-la-preposición-a)
-  * [Otra Gramática](#otra-gramática)
-- [Unidad 4](#unidad-4)
-  * [Adjetivos/Pronombres demostrativos](#adjetivos-o-pronombres-demostrativos)
-  * [one-self](#one-self)
-  * [Acostarse comenzar decir hacer salir venir volver](#acostarse-comenzar-decir-hacer-salir-venir-volver)
-  * [Otras](#otras)
-
+[TOC]
 
 # Unidad 1
 - 问候
@@ -285,3 +266,135 @@ este->ese->aquel
 aquí->ahí->allí->allá
 
 acá->allá
+
+# Unidad 5
+
+## Vocab in sentences
+
+- ¿Adónde vas con tanta prisa?
+	- tanta: such. prisa: hurry.
+- Temo llegar tarde a la tienda.
+	- temer: fear. llegar: arrive/get to. tienda: shop.
+- cenar: dinner.
+- alegrarse: be happy to.
+- En realidad, casi somos de la misma edad.
+	- In reality, quasi(nearly) we're of the same age.
+- ¿Nos sentamos allí?
+	- sentarse: sit.
+- Me parece bien.
+	- (le) parecer: (have) sb. feel like.
+- camarero/a: waiter/-tress.
+- La carta, por favor.
+	- carta: menu.
+- marisco: seafood.
+- pedir: order.
+- carne: meat.
+- ensalada: salad.
+- verduras: veges.
+- sin: without.
+	- vino: wine. tinto: dark red.
+- Y el postre, ¿lo piden ahora o después?
+- De nada. Es un placer.
+
+- Para celebrarlo, invita a sus compañeros a almorzar en casa.
+- A las nueve y media de la mañana empieza a ayudar a su madre en la cocina.
+- Yolanda los recibe con mucha alegría.
+- Ellos la felicitan.
+- Los lleva a la sala y los presenta a sus padres.
+	- llevar: lead sb. to.
+	- presentar: introduce sb. to.
+- Como todavía es pronto para almorzar, los chicos se sientan y se ponen a charlar.
+	- Since still it's early for lunch, the kids seat themselves and begin themselves to chat.
+- Comienza el almuerzo.
+	- Starts the lunch.
+- Hay muchos platos sabrosos.
+	- platos: plates. sabrosos: delicious.
+- Todo el mundo levanta su copa para brindar.
+	- Everyone raises their cup for cheers.
+
+## 直接宾语与宾格人称代词
+
+### 直接宾语
+
+- Invitar.
+	- ¿A quién?
+
+- Enseñar.
+	- ¿Qué?
+
+- 直接宾语提问用qué.
+	- 若直宾是人或拟人，要加a. (a quiénes)
+
+### 直接宾语代词
+
+主格人称代词|宾格人称代词
+--|--
+yo|me
+tú|te
+él|lo,la
+nosotros|nos
+vosotros|os
+ellos|los,las  
+
+## 钟点表示法
+
+- Es la una y diez.
+	- Es la una y media.
+	- Son las dos y cuarto.
+	- Son las cinco menos cuarto.
+	- Son las ocho en punto.
+
+- ¿A qué hora te levantas?
+	- Me levanto a las siete.
+
+## Ir a 和 tener que
+
+- Ahora voy a descansar.
+- Va a venir un nuevo profesor.
+
+- Usted tiene que ir al colegio esta tarde.
+- Tenemos que haver este trabajo **ahora mismo**.
+
+## Haber
+
+- Hay ...
+	- There is/are ...
+- En nuestro campus universitario hay varios comedores.
+- ¿Qué hay sobre(over) la mesa?
+
+## A CON DE PARA y POR
+
+- A
+	- 时间
+	- 目的地
+- CON
+	- 方式
+	- 伴随
+- DE
+	- 内容 ¿Pedimos una ensalada de verduras?
+	- 原因 Encantado de conocerlos.
+	- 整体中的一部分
+	- 时间副词短语 Antes de; Después de.
+	- 词组 de acuerdo, de nada
+- PARA
+	- 目的
+	- 对象
+- POR
+	- 原因
+	- 地点（动态, 如aquí, allí）¿Qué haces por aquí?
+	- 时间
+	- 词组 por supuesto, por favor
+
+NOTE: con + mí/tí => contigo/conmigo
+
+## CERRAR EMPEZAR PEDIR PODER QUERER RECOMENDAR y SENTARSE
+
+pron.|cerrar|empezar|pedir|poder|querer|recomendar|sentarse
+--|--|--|--|--|--|--|--
+yo|cierro|empiezo|pido|puedo|quiero|recomiendo|me siento
+tú|cierras|empiezas|pides|puedes|quieres|recomiendas|te sientas
+él|cierra|empieza|pide|puede|quiere|recomienda|se sienta
+nosotros|cerramos|empezamos|pedimos|podemos|queremos|recomendamos|nos sentamos
+vosotros|cerráis|empezáis|pedís|podéis|queréis|recomendáis|os sentáis
+ellos|cierran|empiezan|piden|pueden|quieren|recomiendan|se sientan
+
