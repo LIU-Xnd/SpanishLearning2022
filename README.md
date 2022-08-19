@@ -58,9 +58,6 @@ Privately used for Spanish language learning.
 - 西语与西语国家
 
 ## VOCABULARIO
-
-<details><summary>展开</summary>
-
 - cómo
 - llamarse
 	- me llamo
@@ -86,8 +83,6 @@ Privately used for Spanish language learning.
 - novio/a
 - ¡Qué va! 不是！哪里！
 - solo
-
-</details>
 
 ## GRAMÁTICA
 - Soy de **C**hina.
@@ -115,9 +110,6 @@ Privately used for Spanish language learning.
 	- estudian
 
 ## VOCAB
-
-<details><summary>展开</summary>
-
 - estar
 	- estoy
 	- estás
@@ -160,8 +152,6 @@ Privately used for Spanish language learning.
 - cosa
 - trabajar
 
-</details>
-
 ---
 # Unidad 3
 - 介绍家庭
@@ -173,9 +163,6 @@ Privately used for Spanish language learning.
 - 移行规则
 
 ## VOCABULARIO
-
-<details><summary>展开</summary>
-
 - casa
 - habitación
 - vivir
@@ -233,8 +220,6 @@ Privately used for Spanish language learning.
 	- primo/a	Bro&sis
 	- sobrino/a	Niece/nephew
 	- tío/a	Uncle/aunt
-
-</details>
 
 ## 非重读物主代词
 
@@ -325,8 +310,6 @@ acá->allá
 
 ## Vocab in sentences
 
-<details><summary>展开</summary>
-
 - ¿Adónde vas con tanta prisa?
 	- tanta: such. prisa: hurry.
 - Temo llegar tarde a la tienda.
@@ -367,8 +350,6 @@ acá->allá
 	- platos: plates. sabrosos: delicious.
 - Todo el mundo levanta su copa para brindar.
 	- Everyone raises their cup for cheers.
-
-</details>
 
 ## 直接宾语与宾格人称代词
 
