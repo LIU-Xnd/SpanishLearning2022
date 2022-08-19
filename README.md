@@ -34,6 +34,15 @@ Privately used for Spanish language learning.
   * [Haber](#haber)
   * [A CON DE PARA y POR](#a-con-de-para-y-por)
   * [CERRAR EMPEZAR PEDIR PODER QUERER RECOMENDAR y SENTARSE](#cerrar-empezar-pedir-poder-querer-recomendar-y-sentarse)
+- [Unidad 6](#unidad-6)
+  * [二类变位](#二类变位)
+  * [与格 gustar encantar](#与格-gustar-encantar)
+  * [读音不变的规则变位 coger](#读音不变的规则变位-coger)
+  * [despedirse encontrar fregar poner sentirse ver](#despedirse-encontrar-fregar-poner-sentirse-ver)
+  * [CUANDO or AL](#cuando-or-al)
+  * [21-50](#21-50)
+  * [nada](#nada)
+  * [Otra (sociocultural)]("#otra-(sociocultural)")
 
 # Unidad 1
 - 问候
@@ -427,4 +436,111 @@ tú|cierras|empiezas|pides|puedes|quieres|recomiendas|te sientas
 nosotros|cerramos|empezamos|pedimos|podemos|queremos|recomendamos|nos sentamos
 vosotros|cerráis|empezáis|pedís|podéis|queréis|recomendáis|os sentáis
 ellos|cierran|empiezan|piden|pueden|quieren|recomiendan|se sientan
+
+# Unidad 6
+
+- 建议，请求
+- 第二变位规则动词陈-现-变位
+- gustar, encantar
+- coger变位
+- despedirse, encontrar, fregar, poner, sentirse, ver变位
+- 连接词cuando或介词结构al+inf.与时间从句
+- cuándo
+- nada
+- 21-50
+
+## 二类变位
+
+pron.|comer
+--|--
+yo|como
+tú|comes
+él|come
+nosotros|comemos
+vosotros|coméis
+ellos|comen
+
+## 与格 gustar encantar
+
+gustar|encantar
+--|--
+Me gusta él.|Me encantan ellos.
+Te gusta(n) |Te encanta(n)
+Le gusta(n)|Le encanta(n)
+Nos gusta(n)|Nos encanta(n)
+Os gusta(n)|Os encanta(n)
+Les gusta(n)|Les encanta(n)
+
+避免歧义可用A:
+
+- A Luis le gusta almorzar en esta cafetería.
+- A Susana y a Gloria les encanta este estilo de escribir.
+
+## 读音不变的规则变位 coger
+
+pron.|coger (pick up)
+--|--
+yo|cojo
+tú|coges
+él|coge
+nosotras|cogemos
+vosotros|cogéis
+ellas|cogen
+
+## despedirse encontrar fregar poner sentirse ver
+
+全表略，部分如下:
+
+pron.|despedirse|encontrar|fregar|poner(put/start)|sentirse|ver
+--|--|--|--|--|--|--
+yo|me despido|encuentro|friego|pongo|me siento|veo
+tú||||pones|te sientes|ves
+él||||||ve
+nosotros|nos despedimos|||||vemos
+vosotros||||||veis
+ellos||||||ven
+
+## CUANDO or AL
+
+- Cuando la casa está sucia, Beatriz la limpia.
+	- (When ..., ...)
+
+- Al saberlo, nos sentimos muy contentos.
+	- (As soon as ..., ...)
+
+(自复代词一致:)
+- Al leventarnos, nos cepillamos los dientes y desayunamos.
+
+## 21-50
+
+num.|palabra
+--|--
+21|veintiuno / veinte y uno
+22|veintidós / veinte y dos
+30|treinta
+31|treinta y uno
+32|treinta y dos
+40|cuarenta
+48|cuarenta y ocho
+50|cincuenta
+
+## nada
+
+可用在动词前或后，在后时动词前要补充No.
+- Nada hay en la sala.
+	- No hay nada en la sala.
+- Nada va a comprar Luis.
+	- Luis no va a comprar nada. 
+
+## Otra (sociocultural)
+
+.|España|Latinoamérica
+--|--|--
+Hello?(on phone)|¿Diga?|¿Aló?
+phone|móvil|celular
+take ride (bus)|coger|tomar
+apartment|piso|departamento
+drive|conducir|manejar
+driver|chófer|chofer
+car (auto)|coche|carro
 
