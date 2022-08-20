@@ -615,7 +615,7 @@ yo|adquiero|devuelvo|ofrezco|pienso|pierdo|puedo|sirvo|suelo|traigo
 tú|adquieres|devuelves|ofreces|piensas|pierdes|puedes|sirves|sueles|traes
 él|adquiere|devuelve|ofrece|piensa|puerde|puede|sirve|suele|trae
 nosotros|adquirimos|devolvemos|ofrecemos|pensamos|perdemos|podemos|servimos|solemos|traemos|
-vosotros|adquirís|devolvéis|ofrcéis|pensáis|perdéis|podéis|servís|soléis|traéis
+vosotros|adquirís|devolvéis|ofrecéis|pensáis|perdéis|podéis|servís|soléis|traéis
 ellos|adquieren|devuelven|ofrecen|piensan|pierden|pueden|sirven|suelen|traen
 
 ### 间接宾语和与格人称代词
