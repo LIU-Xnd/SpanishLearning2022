@@ -43,6 +43,15 @@ Privately used for Spanish language learning.
   * [21-50](#21-50)
   * [nada](#nada)
   * [Otra (sociocultural)]("#otra-(sociocultural)")
+- [Unidad 7](#unidad-7)
+  * [vocabulario](#vocabulario)
+  * [gram.](#gram)
+    + [第三变位动词](#第三变位动词)
+    + [adquirir devolver ofrecer pensar perder poder soler traer](#adquirir-devolver-ofrecer-pensar-perder-poder-soler-traer)
+    + [间接宾语和与格人称代词](#间接宾语和与格人称代词)
+      - [间接宾语](#间接宾语)
+      - [与格人称代词](#与格人称代词)
+  * [51-100](#51-100)
 
 # Unidad 1
 - 问候
@@ -543,4 +552,111 @@ apartment|piso|departamento
 drive|conducir|manejar
 driver|chófer|chofer
 car (auto)|coche|carro
+
+# Unidad 7
+
+## vocabulario
+
+.|.
+--|--
+molestar|bother
+¡En absoluto!|Defly not!
+prestado|lent
+prestar|lend
+lleno/a|plenty
+surtida|of all sorts
+obra|work/masterpiece
+literario|literal
+librería|library
+por Internet|on the Internet
+sistema|system/method
+ganar|gain/save
+ventaja|advantage
+traer|bring
+encargar|purchase/assign
+medio|method
+rato|a little while
+pagar|pay
+Hoy en día|nowadays
+común|common
+hacer compras|do shopping
+en especial|espacially
+sin embargo|nonetheless
+resistirse a|resist to
+estafar|cheat
+ofrecer|offer
+servir|serve
+acaso|Is that..(难道)
+adquirir|acquire
+teclear|tickle(keyboard)
+ordenador(Esp.) / computadora(Amer.)|Computer
+soler|be used to doing
+devolver|give back/return
+perder|lose sth.
+
+## gram.
+
+### 第三变位动词
+
+.|vivir
+--|--
+yo|vivo
+tú|vives
+él|vive
+nosotros|vivimos
+vosotros|vivís
+ellos|viven
+
+### adquirir devolver ofrecer pensar perder poder soler traer
+
+.|adquirir|devolver|ofrecer|pensar|perder|poder|servir|soler|traer
+--|--|--|--|--|--|--|--|--|--
+yo|adquiero|devuelvo|ofrezco|pienso|pierdo|puedo|sirvo|suelo|traigo
+tú|adquieres|devuelves|ofreces|piensas|pierdes|puedes|sirves|sueles|traes
+él|adquiere|devuelve|ofrece|piensa|puerde|puede|sirve|suele|trae
+nosotros|adquirimos|devolvemos|ofrecemos|pensamos|perdemos|podemos|servimos|solemos|traemos|
+vosotros|adquirís|devolvéis|ofrcéis|pensáis|perdéis|podéis|servís|soléis|traéis
+ellos|adquieren|devuelven|ofrecen|piensan|pierden|pueden|sirven|suelen|traen
+
+### 间接宾语和与格人称代词
+
+#### 间接宾语
+
+- Enseño español[直接宾] a estudiantes chinos[间接宾语].
+- Te[间] doy un libro[直].
+
+名词作间接宾语时，前面必须加上介词a。
+
+通常语序是：双宾语均置于动词之后，直接宾语在前(“直接作用最直接”)，间接宾语在后。如果直接宾语是从句，则次序颠倒。
+
+- Llevo las revistas a mi profesor.
+- El profesor les dice a los alumnos que mañana no hay clases. (这里与格用了复指)
+
+#### 与格人称代词
+
+1(主格)|4(宾格,OD)|3(与格,OI)
+--|--|--
+yo|me|me
+tú|te|te
+él,ella|lo,la|le
+nosotros,as|nos|nos
+vosotros,as|os|os
+ellos,as|los,las|les
+
+为了消除歧义，常用“a+名词/代词”来复指。(注：这是本教材原话。但实际上还存在宾语复指的规则。)
+
+- Voy a leerles a ustedes este libro. (我注：这里是夺格，一般要复指，当然ustedes是特殊情况)
+- Puedes escribirle a nuestra profesora para preguntarle eso.
+
+## 51-100
+
+51|cincuenta y uno
+--|--
+58|cincuenta y ocho
+62|sesenta y dos
+79 |setenta y nueve
+85|ochenta y cinco
+97|noventa y siete
+100|cien (ciento)
+
 
