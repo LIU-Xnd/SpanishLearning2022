@@ -735,7 +735,7 @@ ellos|suyo,ya|suyos,yas
 210|doscientos diez
 320|trescientos veinte
 430|cuatrocientos treinta
-* 540|quinientos cuarenta
+540|**quinientos** cuarenta
 650|seiscientos cincuenta
 760|setecientos sesenta
 870|ochocientos setenta
