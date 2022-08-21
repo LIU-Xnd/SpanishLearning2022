@@ -52,6 +52,17 @@ Privately used for Spanish language learning.
       - [间接宾语](#间接宾语)
       - [与格人称代词](#与格人称代词)
   * [51-100](#51-100)
+- [Unidad 8](#unidad-8)
+  * [Gramática](#gramática)
+    + [重读物主形容词](#重读物主形容词)
+      - [形式](#形式)
+      - [用法](#用法)
+    + [物主代词](#物主代词)
+    + [CUÁL 用法](#CUÁL-用法)
+    + [回答否定形式的一般疑问句](#回答否定形式的一般疑问句)
+    + [101-1000](#101-1000)
+    + [DAR OÍR SABER](#dar-oír-saber)
+
 
 # Unidad 1
 - 问候
@@ -658,5 +669,88 @@ ellos,as|los,las|les
 85|ochenta y cinco
 97|noventa y siete
 100|cien (ciento)
+
+# Unidad 8
+
+## Gramática
+
+### 重读物主形容词
+
+#### 形式
+
+.|sing.|plural
+--|--|--
+yo|mío,a|míos,as
+tú|tuyo,ya|tuyos,yas
+él|suyo,ya|suyos,yas
+nosotros|nuestro,tra|nuestros,as
+vosotros|vuestro,tra|vuestros,as
+ellos|suyo,ya|suyos,yas
+
+#### 用法
+
+1. 与带冠词的名词合用
+- Un hermano mío (One of my siblings) es médico.
+- Una tía suya (One of her aunts) vive en la ciudad de México.
+2. 作表语
+- Ramón, ¿no es tuya la revista?
+- Estos libros son nuestros.
+- Abuela, ¿son tuyas o mías estas llaves?
+3. 感叹句/呼语中与不带冠词的名词连用
+- ¡Madre mía! ¡Qué texto tan difícil!
+- ¿Qué quieres, hijo mío?
+
+### 物主代词
+
+形式与形容词一致。用法：须与定冠词合用，并与所指代的名词保持性数一致。
+
+- Nuestra habitación está en este piso. ¿Dónde está la vuestra?
+- Tu camiseta es verde. La mía es roja.
+
+### CUÁL 用法
+
+- cuál 哪一个；cuáles 哪一些
+
+多通过介词de引导出所指的人或物。
+
+- Alicia, ¿cuál de las camisetas te gusta más?
+- Hay muchos libros. ¿Cuáles de ellos son tuyos?
+- Mira, tenemos varias maletas. ¿Cuál es la suya?
+- ¿En cuál de esas habitaciónes vives tú?
+
+在提问号码、名称、姓名等内容时，可以使用“Qué ... tener”或“Cuál ser el ... de ...”.
+- ¿Puede decirme, por favor, qué número de habitación tengo?
+- ¿Puede decirme, por favor, cuál es el número de mi habitación?
+
+### 回答否定形式的一般疑问句
+
+按事实回答Sí/No.
+
+### 101-1000
+
+101|ciento uno
+--|--
+120|ciento veinte
+200|doscientos
+210|doscientos diez
+320|trescientos veinte
+430|cuatrocientos treinta
+* 540|quinientos cuarenta
+650|seiscientos cincuenta
+760|setecientos sesenta
+870|ochocientos setenta
+980|novecientos ochenta
+1000|mil
+
+### DAR OÍR SABER
+
+.|dar|oír|saber
+--|--|--|--
+yo|doy|oigo|sé
+tú| |oyes|sabes
+él| |oye|sabe
+nosotros| |oímos| 
+vosotros| |oís| 
+ellos| |oyen|saben
 
 
