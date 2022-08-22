@@ -63,7 +63,7 @@ Privately used for Spanish language learning.
     + [101-1000](#101-1000)
     + [DAR OÍR SABER](#dar-oír-saber)
 - [Unidad 9](#unidad-9)
-  * [VOCAB](#vocab)
+  * [VOCAB](#vocab-1)
   * [GRAM](#gram)
     + [宾格，与格人称代词同时使用](#宾格，与格人称代词同时使用)
     + [命令式第二人称亲昵式单数及礼貌式的单复数](#命令式第二人称亲昵式单数及礼貌式的单复数)
