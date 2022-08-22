@@ -65,7 +65,7 @@ Privately used for Spanish language learning.
 - [Unidad 9](#unidad-9)
   * [VOCAB](#vocab-1)
   * [GRAM](#gram)
-    + [宾格，与格人称代词同时使用](#宾格，与格人称代词同时使用)
+    + [宾格，与格人称代词同时使用](#宾格与格人称代词同时使用)
     + [命令式第二人称亲昵式单数及礼貌式的单复数](#命令式第二人称亲昵式单数及礼貌式的单复数)
     + [不规则动词命令式 decir ir poner salir tener venir](#不规则动词命令式-decir-ir-poner-salir-tener-venir)
     + [Encender变格](#encender变格)
