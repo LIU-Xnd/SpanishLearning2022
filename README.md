@@ -841,6 +841,7 @@ ustedes|acuéstense|levántense|límpiense
 ### 不规则动词命令式 decir ir poner salir tener venir
 
 .|decir|hacer|ir|poner|salir|tener|venir
+--|--|--|--|--|--|--|--
 tú|di|haz|ve|pon|sal|ten|ven
 usted|diga|haga|vaya|ponga|salga|tenga|venga
 ustedes|digan|hagan|vayan|pongan|salgan|tengan|vengan
