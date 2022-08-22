@@ -62,6 +62,13 @@ Privately used for Spanish language learning.
     + [回答否定形式的一般疑问句](#回答否定形式的一般疑问句)
     + [101-1000](#101-1000)
     + [DAR OÍR SABER](#dar-oír-saber)
+- [Unidad 9](#unidad-9)
+  * [VOCAB](#vocab)
+  * [GRAM](#gram)
+    + [宾格，与格人称代词同时使用](#宾格，与格人称代词同时使用)
+    + [命令式第二人称亲昵式单数及礼貌式的单复数](#命令式第二人称亲昵式单数及礼貌式的单复数)
+    + [不规则动词命令式 decir ir poner salir tener venir](#不规则动词命令式-decir-ir-poner-salir-tener-venir)
+    + [Encender变格](#encender变格)
 
 
 # Unidad 1
@@ -752,5 +759,103 @@ tú| |oyes|sabes
 nosotros| |oímos| 
 vosotros| |oís| 
 ellos| |oyen|saben
+
+# Unidad 9
+
+## VOCAB
+
+<details>
+<summary>**VOCABULÁRIO**</summary>
+<pre>
+indicar, camino, llamada, ganas[愿望], 
+desde[from], quedar[locate], lejos[far], 
+inmediatamente, dejar[leave], 
+bajar[go down], suficiente, dirección, 
+seguridad[security], encender[turn-on], 
+fuera[outside], hacia[towards], 
+izquierda[left], parada[bus-stop], 
+línea[line/bus-line], correr, 
+a ver si[to see if], alcanzar[catch up], 
+apearse[get off], pino[pine-tree], 
+zona[zone], claro[clear], edificio[building], 
+en todo caso[in all cases], perderse[get lost], 
+descuidar[not worry], secretario/a, 
+cliente[customer], delegación, 
+entrevista[meeting], gerente[manager], 
+ascensor[lift/elevator], a la derecha[on the right], 
+avanzar[preceed], metro[metre], pasillo[passage/corridor], sentir[feel/be sorry], 
+apagar[turn-off], despacho[office], duda[疑问], 
+seguir[继续].
+</pre>
+</details>
+
+## GRAM
+
+### 宾格，与格人称代词同时使用
+
+1. 代词与前宾后.
+
+- Te lo traigo mañana.
+- Os hacemos unas preguntas en español y nos las contestáin en español también.
+
+2. 与、宾同时出现时，第三人称与格人称代词(le, les)用变体se. (避免双L)
+
+- Estas son las llaves de mi hermano. Yo se las llevo.
+- Si ustedes quieren usar estas maletas, se las presto.
+- Lius regresa a casa con la bolsa llena de verduras y se la entrega a su mujer.
+
+注意：
+
+- Tengo el libro en casa. Te lo voy a traer mañana.
+- Tengo el libro en casa. Voy a traértelo mañana.
+
+### 命令式第二人称亲昵式单数及礼貌式的单复数
+
+1. 规则动词变位
+
+人称|trabajar|comer|vivir
+--|--|--|--
+tú|trabaja|come|vive
+usted|trabaje|coma|viva
+ustedes|trabajen|coman|vivan
+
+2. 不规则动词变位
+
+略
+
+自复动词：
+
+pron.|acostarse|levantarse|limpiarse
+--|--|--|--
+tú|acuéstate|levántate|límpiate
+usted|acuéstase|levántese|límpiese
+ustedes|acuéstense|levántense|límpiense
+
+宾格与与格人称代词于命令式之后，并与之连写，有时需添加重音符号。
+
+- Escríbeme, por favor.
+- Si tienes esa novela, tráemela mañana, por favor.
+
+注：为了避免刺耳，凡遇到-noslos, noslas, oslos, oslas这类音节，往往略去一个代词。例如，不说Entréganoslos，而说Entréganos或Entrégalos.
+
+### 不规则动词命令式 decir ir poner salir tener venir
+
+.|decir|hacer|ir|poner|salir|tener|venir
+tú|di|haz|ve|pon|sal|ten|ven
+usted|diga|haga|vaya|ponga|salga|tenga|venga
+ustedes|digan|hagan|vayan|pongan|salgan|tengan|vengan
+
+(规律(?)：Yo格变-go的多适用此规则)
+
+### Encender变格
+
+.|encender
+--|--
+yo|enciendo
+tú|enciendes
+él|enciende
+nosotros|encendemos
+vosotros|encendéis
+ustedes, ellos|encienden
 
 
