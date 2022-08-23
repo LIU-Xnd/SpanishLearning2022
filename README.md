@@ -71,7 +71,7 @@ Privately used for Spanish language learning.
     + [Encender变格](#encender变格)
 - [Unidad 10](#unidad-10)
   * [命令式第一人称复数(nosotros/as)和第二人称复数的亲昵式(vosotros/as)](#命令式第一人称复数nosotrosas和第二人称复数的亲昵式vosotrosas)
-    + [命令式所有总结：](#命令式所有总结：)
+    + [命令式所有总结：](#命令式所有总结)
   * [不规则动词saber, ser, traer, ver命令式变位](#不规则动词saber-ser-traer-ver命令式变位)
   * [直接宾语从句](#直接宾语从句)
   * [不规则动词变位 elegir, mostrar](#不规则动词变位-elegir-mostrar)
