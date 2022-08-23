@@ -69,6 +69,13 @@ Privately used for Spanish language learning.
     + [命令式第二人称亲昵式单数及礼貌式的单复数](#命令式第二人称亲昵式单数及礼貌式的单复数)
     + [不规则动词命令式 decir ir poner salir tener venir](#不规则动词命令式-decir-ir-poner-salir-tener-venir)
     + [Encender变格](#encender变格)
+- [Unidad 10](#unidad-10)
+  * [命令式第一人称复数(nosotros/as)和第二人称复数的亲昵式(vosotros/as)](#命令式第一人称复数nosotrosas和第二人称复数的亲昵式vosotrosas)
+    + [命令式所有总结：](#命令式所有总结：)
+  * [不规则动词saber, ser, traer, ver命令式变位](#不规则动词saber-ser-traer-ver命令式变位)
+  * [直接宾语从句](#直接宾语从句)
+  * [不规则动词变位 elegir, mostrar](#不规则动词变位-elegir-mostrar)
+
 
 
 # Unidad 1
@@ -858,5 +865,77 @@ tú|enciendes
 nosotros|encendemos
 vosotros|encendéis
 ustedes, ellos|encienden
+
+# Unidad 10
+
+## 命令式第一人称复数(nosotros/as)和第二人称复数的亲昵式(vosotros/as)
+
+.|trabajar|comer|vivir
+--|--|--|--
+nosotros|trabajemos|comamos|vivamos
+vosotros|trabajad|comed|vivid
+
+- Dejadme hacer el trabajo poco a poco.
+- Déjenme hacer el trabajo poco a poco.
+
+如果动词为自复动词，mosotros动词变位失去词尾s；vosotros动词变位失词尾d。
+
+.|acostarse|levantarse|ponerse
+--|--|--|--
+nosotros|acostémonos|levantémonos|ponémonos
+vosotros|acostaos|levantaos|poneos
+
+nosotros命令式与后置与格宾格连写时，也有变通情况。遇到下列语段，往往要略去代词se。例如，不说Encarguémoselo，而说，Encarguémoslo。
+
+- Son las diez. Levantaos ya.
+- Son las diez. Levántense ya.
+
+### 命令式所有总结：
+
+.|estudiar|comer|vivir
+--|--|--|--
+tú|estudia|come|vive
+nosotros|estudiemos|comamos|vivamos
+vosotros|estudiad|comed|vivid
+usted|estudie|coma|viva
+ustedes|estudien|coman|vivan
+
+## 不规则动词saber, ser, traer, ver命令式变位
+
+.|saber|ser|traer|ver
+--|--|--|--|--
+tú|sabe|sé|trae|ve
+usted|sepa|sea|traiga|vea
+nosotros|sepamos|seamos|traigamos|veamos
+vosotros|sabed|sed|traed|ved
+ustedes|sepan|sean|traigan|vean
+
+小规律：tú简短有力，vosotros词根接d，usted最礼貌(e/a互换)，nosotros对自己礼貌(usted变化+mos)，ustedes对大家礼貌(usted变化+n)。所以以后背命令式一般可以直接背usted变化。
+
+## 直接宾语从句
+
+用que连接。如果直接宾语是疑问词引导的，可以省略que：¿Puedes decirme qué hora es? 不过口语中经常添加que.
+
+如果直接宾语是一般疑问句，即不带疑问词，则通过连接词si与主句连接：La vendedora me pregunta si necesito comprar un abrigo impermeable. 口语中时不时添加que：La vendedora me pregunta que si necesito comprar un abrigo impermeable.
+
+如果直接宾语由疑问代词/副词引导，主句动词为saber等感知动词，且从句主语与主句主语相同，从句动词可以是原形动词。
+
+- No sé qué decirte. (Yo no sé qué te digo.)
+- No sabemos cómo recibirlos.
+
+## 不规则动词变位 elegir, mostrar
+
+注意elegir发音同"elejir".
+
+.|elegir|mostrar
+--|--|--
+yo|elijo|muestro
+tú|eliges|muestras
+él|elige|muestra
+nosotros|elegimos|mostramos
+vosotros|elegís|mostráis
+ustedes|eligen|muestran
+
+
 
 
