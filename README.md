@@ -75,7 +75,10 @@ Privately used for Spanish language learning.
   * [不规则动词saber, ser, traer, ver命令式变位](#不规则动词saber-ser-traer-ver命令式变位)
   * [直接宾语从句](#直接宾语从句)
   * [不规则动词变位 elegir, mostrar](#不规则动词变位-elegir-mostrar)
-
+- [Unidad 11](#Unidad-11)
+  * [否定命令式](#否定命令式)
+  * [que定语从句](#que定语从句)
+  * [estar+gerundo](#estargerundo)
 
 
 # Unidad 1
@@ -936,6 +939,85 @@ nosotros|elegimos|mostramos
 vosotros|elegís|mostráis
 ustedes|eligen|muestran
 
+# Unidad 11
+
+## 否定命令式
+
+由否定副词no加动词的虚拟式现在时构成。
+
+.|trabajar|comer|escribir
+--|--|--|--
+tú|no trabajes|no comas|no escribas
+usted|no trabaje|no coma|no escriba
+vosotros|no trabajéis|no comáis|no escribáis
+
+特殊1：
+
+.|decir(digo)|hacer(hago)|oír(oigo)|poner(pongo)|salir(salgo)|tener(tengo)|traer(traigo)|venir(vengo)
+--|--|--|--|--|--|--|--|--
+tú|no digas|no hagas|no oigas|no pongas|no salgas|no tengas|no traigas|no vengas
+usted|no diga|||||||
+vosotros|no digáis|||||||
+
+特殊2:
+
+.|contar(cuento)|entender(entiendo)|jugar(juego)|pensar(pienso)|volver(vuelvo)
+--|--|--|--|--|--
+tú|no cuentes||||
+usted|no cuente||||
+vosotros|no contéis||||
+
+- empenzar -> no empience(s),-céis
+- pagar -> no pague(s),-guéis
+
+其他：
+
+.|ir|ser|ver
+--|--|--|--
+tú|no vayas|no seas|no veas
+usted|no vaya||
+vosotros|no vayáis|no seáis|no veáis
+
+“否定命令式”分开写宾语：
+
+- Dígaselo.
+- No se lo diga.
+- Levántate.
+- No te levantes.
+
+## que定语从句
+
+略
+
+## estar+gerundo
+
+- -ar -> -ando
+- -er,-ir -> -iendo
+
+特殊：
+
+- creer -> creyendo
+- ir -> yendo
+- leer -> leyendo
+- traer -> trayendo
+
+词根变化特殊：
+
+decir|pedir|poder|seguir|servir|venir|vestir
+--|--|--|--|--|--|--
+diciendo|pidiendo|**pudiendo**|siguiendo|sirviendo|viniendo|vistiendo
+
+estar + gerundo: 正在做某事
+
+- Luis está hablando por teléfono con su madre.
+
+带宾/自复代词的副动词词序(两种都行)：
+
+- Habla, por favor. Te estamos escuchando.
+- Habla, por favor. Estamos escuchándote.
+
+- Espere un momento. Me estoy vistiendo.
+- Espere un momento. Estoy vistiéndome.
 
 
 
