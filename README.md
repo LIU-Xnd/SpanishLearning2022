@@ -79,6 +79,11 @@ Privately used for Spanish language learning.
   * [否定命令式](#否定命令式)
   * [que定语从句](#que定语从句)
   * [estar+gerundo](#estargerundo)
+- [Unidad 12](#unidad-12)
+  * [否定命令式](#否定命令式)
+  * [副动词表示方式](#副动词表示方式)
+  * [Querer+Inf](#quererinf)
+  * [不规则动词Agradecer和conocer的变位](#不规则动词agradecer和conocer的变位)
 
 
 # Unidad 1
@@ -1018,6 +1023,83 @@ estar + gerundo: 正在做某事
 
 - Espere un momento. Me estoy vistiendo.
 - Espere un momento. Estoy vistiéndome.
+
+# Unidad 12
+
+## 否定命令式
+
+.|trabajar|comer|escribir
+--|--|--|--
+nosotros|no trabajemos|no comamos|no escribamos
+ustedes|no trabajen|no coman|no excriban
+
+总结：
+
+.|trabajar|comer
+--|--|--
+tú|no trabajes|no comas
+usted|no trabaje|no coma
+nosotros|no trabajemos|no comamos
+vosotros|no trabajéis|no comáis
+ustedes|no trabajen|no coman
+
+特殊：
+
+.|decir(digo)|hacer(hago)
+--|--|--
+nosotros|no digamos|no hagamos
+ustedes|no digan|no hagan
+
+.|contar|entender
+--|--|--
+nosotros|no contemos|no entendamos
+ustedes|no cuenten|no entiendan
+
+.|ir|ser|ver
+--|--|--|--
+nosotros|no vayamos|no seamos|no veamos
+ustedes|no vayan|no sean|no vean
+
+- Cuéntenselo.
+- No se lo cuenten.
+- Vámonos. (Vayámonos.)
+- No nos vayamos.
+
+P.S.: 
+总结tú的常见不规则命令式：
+ - ser—sé
+ - ir—ve
+ - decir—di
+ - hacer—haz
+ - estar—está
+ - dar—da
+ - ver—ve 
+ - saber—sabe 
+ - caber—cabe 
+ - oír—oye
+
+P.P.S.:
+nosotros的ir命令式变位有两种，vayamos和vamos，后者在日常中更常用。
+
+## 副动词表示方式
+
+- Cuando alguien te elogia **diciendo** que hablas bien español, no le digas: "No, lo hablo muy mal."
+- El guía dice a los turistas que no asusten a los animales arrojándoles (throwing to them) comida.
+
+## Querer+Inf
+
+愿意做/想做.
+
+## 不规则动词Agradecer和conocer的变位
+
+.|agradecer|conocer
+--|--|--
+yo|agradezco|conozco
+tú|agradeces|conoces
+él|agradece|conoce
+nosotros|agradecemos|conocemos
+vosotros|agradecéis|conocéis
+ellos|agradecen|conocen
 
 
 
