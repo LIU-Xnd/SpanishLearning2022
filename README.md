@@ -75,7 +75,7 @@ Privately used for Spanish language learning.
   * [不规则动词saber, ser, traer, ver命令式变位](#不规则动词saber-ser-traer-ver命令式变位)
   * [直接宾语从句](#直接宾语从句)
   * [不规则动词变位 elegir, mostrar](#不规则动词变位-elegir-mostrar)
-- [Unidad 11](#Unidad-11)
+- [Unidad 11](#unidad-11)
   * [否定命令式](#否定命令式)
   * [que定语从句](#que定语从句)
   * [estar+gerundo](#estargerundo)
@@ -84,6 +84,14 @@ Privately used for Spanish language learning.
   * [副动词表示方式](#副动词表示方式)
   * [Querer+Inf](#quererinf)
   * [不规则动词Agradecer和conocer的变位](#不规则动词agradecer和conocer的变位)
+- [Unidad 13](#unidad-13)
+  * [虚拟式现在时](#虚拟式现在时)
+  * [直接引语与间接引语](#直接引语与间接引语)
+  * [形容词比较级](#形容词比较级)
+  * [y/e, o/u, ni](#ye-ou-ni)
+  * [Nadie](#nadie)
+  * [Incluir](#incluir)
+
 
 
 # Unidad 1
@@ -1101,5 +1109,86 @@ nosotros|agradecemos|conocemos
 vosotros|agradecéis|conocéis
 ellos|agradecen|conocen
 
+# Unidad 13
 
+## 虚拟式现在时
+
+1. 变位
+
+规则动词：
+
+trabaje, coma, escriba
+
+trabajes, comas, escribas,
+
+...
+
+(略)
+
+不规则动词：
+
+decir -> diga, digas, diga, digamos, digáis, digan
+
+contar -> cuente, cuentes, cuente, contemos, contéis, cuenten
+
+ir -> vaya, vayas, vaya, vayamos, vayáis, vayan
+
+saber -> sepa, sepas, sepa, sepamos, sepáis, sepan (复习，tú命令式亲昵式：sé)
+
+ser -> sea, seas, sea, seamos, seáis, sean
+
+ver -> vea, ...
+
+(略)
+
+2. 用法
+
+命令式在间接引语中转换为虚拟式。有关宾语/自复代词移至动词前，并改变相应人称。
+
+- Abuela dice: "Lucía, acércate."
+- La abuela le dice a Lucía que se acerque.
+- Renato dice a Jaime: "Por el momento no necesito estos libros. No me los devuelvas todavía."
+- Renato le dice a Jaime que por el momento no necesita esos libros **y que** no **se los** (not "le los", "no L-L" rule) devuelvas todavía.
+
+## 直接引语与间接引语
+
+间接引语一般用que连接引语，如果原话是一般疑问句，则用si(是否)。
+
+- El turista pregunta a la recepcionista: "¿Están subiendo mis maletas a mi habitación?"
+- El turista (le) pregunta a la recepcionista si están subiendo sus maletas a su habitación.
+
+## 形容词比较级
+
+对于年龄: grande(eld), pequeño(young).
+
+比较级: mayor(más grande), menor(más pequeño)
+
+比较对象用que连接：
+
+- Mi hermano Luis es mayor que yo.
+- Mis dos tíos son mayores que mi padre.
+
+## y/e, o/u, ni
+
+- Pedro y José.
+- Padre e hijo.
+- Pedro o José.
+- ¿Siete u ocho años?
+- ¿Qué vamos a comer? No tenemos (ni) carne, (ni) verduras ni cereales.
+
+## Nadie
+
+- Nadie ...
+- No ... nadie ...
+
+## Incluir
+
+.|陈述式现在时|虚拟式现在时|副动词(-ndo)
+--|--|--|--
+yo|incluyo|incluya|incluyendo
+tú|incluyes|incluyas|
+él|incluye|incluya|
+nosotros|incluimos|incluyamos|
+vosotros|incluís|incluyáis|
+ellos|incluyen|incluyan|
 
