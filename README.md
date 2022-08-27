@@ -91,6 +91,12 @@ Privately used for Spanish language learning.
   * [y/e, o/u, ni](#ye-ou-ni)
   * [Nadie](#nadie)
   * [Incluir](#incluir)
+- [Unidad 14](#unidad-14)
+  * [语法](#语法)
+    + [虚拟式现在时的用法](#虚拟式现在时的用法)
+    + [夺格人称代词](#夺格人称代词)
+    + [介词a, con, de, desde, en, hacia, para, por, sin, sobre的用法](#介词a-con-de-desde-en-hacia-para-por-sin-sobre的用法)
+    + [divertirse, graduarse陈述和虚拟式变位](#divertirse-graduarse陈述和虚拟式变位)
 
 
 
@@ -1191,4 +1197,54 @@ tú|incluyes|incluyas|
 nosotros|incluimos|incluyamos|
 vosotros|incluís|incluyáis|
 ellos|incluyen|incluyan|
+
+# Unidad 14
+
+## 语法
+
+### 虚拟式现在时的用法
+
+1. 以tal vez, quizá, ojalá表示可能、揣测或愿望等副词开头的简单句中，使用动词虚拟式。
+2. 在直接宾语从句中，如果主句动词表示愿望期待祈使等含义，其主语又与从句主语不一致，从句中应使用虚拟式，表示现在或将来可能成为现实的事件。
+3. 在para que, a que等引导的目的从句中，如果其主语与主句主语不一致，需使用虚拟式。（若一致则用动词原形）
+
+### 夺格人称代词
+
+- yo: mí
+- tú: ti
+- él: él
+- ...
+- (se: sí)
+
+绝大多数介词后面使用夺格人称代词。
+- No quiero que eso me ocurra a mí.
+- Este regalo es para ti.
+
+介词a与多格代词连用时，通常只是一种强调成分，可以省略。但动词前的宾格或与格代词不能省略。
+
+介词entre, según后要求用主格代词。
+
+con后mí, tí变为 conmigo, contigo.
+
+强调所指人称：
+
+- En la despedida, la madre dice a la hija: "Desde ahora vas a tener que cuidarte a ti misma."
+
+### 介词a, con, de, desde, en, hacia, para, por, sin, sobre的用法
+
+略。
+
+### divertirse, graduarse陈述和虚拟式变位
+
+divertirse:
+
+- me divierto | me divierta
+- te diviertes | te diviertas
+- ...
+
+graduarse:
+
+- me gradúo | me gradúe
+- te gradúas | te gradúes
+- ...
 
