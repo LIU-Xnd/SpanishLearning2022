@@ -105,6 +105,14 @@ Privately used for Spanish language learning.
     + [用途](#用途)
   * [动词短语llevar+gerundo](#动词短语llevargerundo)
   * [形容词的位置](#形容词的位置)
+- [Unidad 16](#unidad-16)
+  * [过去分词](#过去分词)
+    + [形式](#形式)
+    + [用法](#用法)
+  * [系动词estar和ser区别](#系动词estar和ser区别)
+  * [动词llevar](#动词llevar)
+  * [Hacer Falta的单一人称用法](#hacer-falta的单一人称用法)
+  * [不规则动词sonreír变位](#不规则动词sonreír变位)
 
 
 
@@ -1342,5 +1350,66 @@ adj一般置于被修饰语的后面。
 - Te digo que Pepe es un buen chico.
 - Tomás es un gran(伟大的) hombre.
 - Tomás es un hombre grande(大块头的).
+
+# Unidad 16
+
+## 过去分词
+
+### 形式
+
+trabajar|comer|vivir
+--|--|--
+trabajado|comido|vivido
+
+levantarse|tenderse|vestirse
+--|--|--
+levantado|tendido|vestido
+
+abrir|decir|escribir|hacer|poner|romper|ver|volver
+--|--|--|--|--|--|--|--
+abierto|dicho|escrito|hecho|puesto|roto|visto|vuelto
+
+leer -> leído
+traer -> traído
+
+### 用法
+
+1. 与haber构成复合时态，现在完成时、过去完成时、将来完成时。
+2. 形容词。
+- Hoy vamos a repasar las lecciones estudiadas.
+
+## 系动词estar和ser区别
+
+略
+
+3. ser + 过去分词 构成被动语态。estar+过去分词 表示状态或变化结果。
+
+## 动词llevar
+
+llevar+p.p.构成动词短语加上时段词语，表示某种状态或情况持续的时间。
+
+- ¿Cuánto tiempo llevas instalado en tu nueva casa?
+-Llevo tres días metido en un gran problema y todavía no veo la solución.
+
+## Hacer Falta的单一人称用法
+
+语义类似ser necesario.
+
+- Para ganar dinero, solo hace falta que te pongas a trabajar.
+- No hace falta que grites tanto. Te oigo muy bien.
+
+如果主语不确定，用动词原形取代从句。
+
+- Es un trabajo muy fácil. No hace falta pedir ayuda a nadie.
+
+## 不规则动词sonreír变位
+
+.|陈述式现在时|虚拟式现在时
+--|--|--
+yo|sonrío|sonría
+tú|sonríes|sonrías
+...||
+nosotros|sonreímos|sonríamos
+...||
 
 
