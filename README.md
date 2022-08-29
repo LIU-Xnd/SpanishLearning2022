@@ -97,6 +97,15 @@ Privately used for Spanish language learning.
     + [夺格人称代词](#夺格人称代词)
     + [介词a, con, de, desde, en, hacia, para, por, sin, sobre的用法](#介词a-con-de-desde-en-hacia-para-por-sin-sobre的用法)
     + [divertirse, graduarse陈述和虚拟式变位](#divertirse-graduarse陈述和虚拟式变位)
+- [Unidad 15](#unidad-15)
+  * [虚拟式现在时的用法](#虚拟式现在时的用法)
+  * [自复被动句](#自复被动句)
+  * [无人称句](#无人称句)
+    + [形式](#形式)
+    + [用途](#用途)
+  * [动词短语llevar+gerundo](#动词短语llevargerundo)
+  * [形容词的位置](#形容词的位置)
+
 
 
 
@@ -1247,4 +1256,91 @@ graduarse:
 - me gradúo | me gradúe
 - te gradúas | te gradúes
 - ...
+
+# Unidad 15
+
+## 虚拟式现在时的用法
+
+- Es necesario que lleguemos a dominar el español antes de graduarnos.
+- Es posible que los estudiantes recién llegados se pongan nerviosos en la primera clase.
+- Es importante, útil, mejor, ...
+- Está bien, mal, ...
+
+## 自复被动句
+
+自复被动句的特点：
+1. 主语均为受事；
+2. 谓语动词均为及物动词；
+3. 动词以自复形式出现，但只限第三人称，即带自复代词se；
+4. **动词须与受事主语保持单复数的形态一致**；
+5. (受事主语通常置于动词之后)。
+
+- ¿Cuántas lenguas extranjeras se enseñan en tu universidad?
+- Espero que en este país se conozcan más las culturas precolombinas de América Latina.
+- Cuando se inicia un nuevo semestre, después de las vacaciones, empieza también la necesidad de pensar en divertirse menos.
+- Estos libros se pueden adquirir en las librerías y también por Internet.
+- ¿Cómo se pronumcian estas palabras?
+- Desde aquí no se ve nada.
+
+在动词短语中，se可置于助动词/副动词之前，与之分写。Desde mañana, estas clases se van a dictar por la tarde.
+
+代词se也可以置于原形动词或副动词之后，与之连写。有时为避免重音位移，需要添加重音符号。
+
+## 无人称句
+
+无人称句是指没有语法主语的句子。
+
+### 形式
+
+1. 动词三单加代词se。
+
+- ¿Cómo es posible que se viva bien en un país con tantos problemas?
+- Normalmente, ya no se trabaja a esta hora.
+
+2. 动词第三人称复数
+
+- Dicen que Luis es especialista en Historia de América Latina.
+- Vamos a ver el programma para niños. Justo lo están pasando en este momento.
+
+(直观: se/Φ≈people/someone)
+
+### 用途
+
+1. 说话人不能确定施事主语时，使用无人称句。
+- César, te están llamando por teléfono.
+(猜测：这里有te，所以倾向于不用se无人称句)
+
+2. 说话人不愿指明施事主语时，使用无人称句。
+- A: ¿Qué te pasa? ¿Tienes algún problema?
+- B: Me quieren despedir del trabajo.
+
+3. 施事主语对听话人无关紧要。
+- Me van a traer muchos regalos en mi cumpleaños.
+
+4. 施事主语泛指。
+- En este país se lee mucho.
+- Generalmente se entra en la oficina a las nueve y se sale a las cinco.
+
+## 动词短语llevar+gerundo
+
+spend time into sth.
+
+干(某事)已经(多长时间了).
+
+- ¿Cuánto tiempo lleváis estudiando español?
+- Ya llevamos un años estudiando.
+
+## 形容词的位置
+
+adj一般置于被修饰语的后面。
+
+- Me van a encargar una misión importante.
+
+一些形容词置于被修饰语之前时，若被修饰语是阳性单数名词，应去掉形容词的最后一个音节/音素.
+
+- Te digo que Pepe es un chico muy bueno.
+- Te digo que Pepe es un buen chico.
+- Tomás es un gran(伟大的) hombre.
+- Tomás es un hombre grande(大块头的).
+
 
